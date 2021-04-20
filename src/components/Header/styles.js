@@ -9,7 +9,7 @@ export const Container = styled.header`
   height: 80px;
   left: 0px;
   top: 0px;
-  background: #E6E8EA;
+  background: #FFFFFF;
 `;
 
 export const Logo = styled(Link)`
